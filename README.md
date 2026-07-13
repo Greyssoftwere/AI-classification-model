@@ -5,7 +5,7 @@
 - planes
 - boats
   
-#training the model 
+# training the model 
 1. Open Google Teachable Machine
 2. create an image project
 3. add the three classes - Cars - planes - boats
@@ -20,7 +20,7 @@
 <img width="1865" height="888" alt="Screenshot 2026-07-13 215130" src="https://github.com/user-attachments/assets/bdd8d3ca-becb-4820-9576-912f1050d7c8" />
 
 
- #Google Collab
+ # Google Collab
  1. open a new Notebook
  2. paste the pyrhon script from the Teachable Machine
  3. add this line of code import tf_keras as tk
