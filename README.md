@@ -23,8 +23,14 @@
  # Google Collab
  1. open a new Notebook
  2. paste the pyrhon script from the Teachable Machine
- 3. add this line of code import tf_keras as tk
-4. Modify load_model to tk.models.load_model
+ 3. add this line of code
+ 4. ```bash
+    import tf_keras as tk
+     ``` 
+5. Modify load_model to
+```bash
+ tk.models.load_model
+   ``` 
 5. Add the exported Files and the image that was tested and classfied
 6. Run the code
 
